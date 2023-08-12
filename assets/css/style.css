@@ -1,0 +1,70 @@
+.colored-toast.swal2-icon-success {
+	background-color: #a5dc86 !important;
+}
+
+.colored-toast.swal2-icon-error {
+	background-color: #f27474 !important;
+}
+
+.colored-toast.swal2-icon-warning {
+	background-color: #f8bb86 !important;
+}
+
+.colored-toast.swal2-icon-info {
+	background-color: #3fc3ee !important;
+}
+
+.colored-toast.swal2-icon-question {
+	background-color: #87adbd !important;
+}
+
+.colored-toast .swal2-title {
+	color: white !important;
+	font-size: 13px !important;
+}
+
+.colored-toast .swal2-close {
+	color: white !important;
+}
+
+.colored-toast .swal2-html-container {
+	color: white !important;
+	font-weight: 400;
+}
+
+.fc-sun {
+	background-color: #fffadf;
+}
+
+.fc-sat {
+	background-color: #fffadf;
+}
+
+.fc-view-container .alert-info{
+	background-color: #d1ecf1 !important;
+}
+.fc-toolbar{
+	text-transform: capitalize;
+}
+
+.imagentabla{
+	width: 35px;
+}
+
+.imagenformulario{
+	width: 200px;
+}
+
+.navbar-purple{
+	background-color: #7c72dc !important;
+}
+
+.bg-purple{
+	background-color: #7c72dc !important;
+}
+.sidebar-dark-purple .nav-sidebar>.nav-item>.nav-link.active, .sidebar-light-purple .nav-sidebar>.nav-item>.nav-link.active {
+	background-color: #7c72dc !important;
+}
+.text-purple{
+	color: #7c72dc !important;
+}
